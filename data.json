@@ -1,0 +1,21 @@
+{
+  "page_title": "Nikola Prljeta",
+  "title": "Nikola <span class=\"accent\">Prljeta</span>",
+  "subtitle": "Runtime Naturalist",
+  "tagline": "Clean. Functional. _________.",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/nikolaprljeta" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/nikolaprljeta" },
+    { "label": "Instagram", "url": "https://www.instagram.com/nikolaetcetera/" }
+  ],
+  "body": [
+    "<strong>IT Engineer</strong> \u2014 Belgrade, Europe<br><strong>Foundation</strong> \u2014 English \u00b7 Swedish \u00b7 Serbian",
+    "Builds across stacks, system design and the people behind them.",
+    "Music lover. Film buff. Traveller. Socialite. Fair-weather cyclist.",
+    "Clean code. Clean design. Slow mornings."
+  ],
+  "footer": {
+    "copyright": "\u00a9 2026 Nikola Prljeta",
+    "tag": "less is more \u00a0\u00b7\u00a0 bauhaus"
+  }
+}
