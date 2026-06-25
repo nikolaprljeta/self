@@ -14,7 +14,7 @@ function loadContent() {
     document.querySelector('.tagline').textContent = data.tagline
     const links = document.querySelector('.links')
     links.innerHTML = data.links.map(l =>
-      `<a href="${l.url}" target="_blank">${l.label}</a>`
+      `<a href="${l.url}" target="_blank"${l.rel ? ` rel="${l.rel}"` : ''}>${l.label}</a>`
     ).join('')
     const bc = document.querySelector('.body__content')
     bc.innerHTML = data.body.map(p =>
